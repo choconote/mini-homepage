@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+.menus {
+    margin-left: 10px;
+}
+
+.date{
+    color: brown;
+}
+
+.guest{
+    background-color: beige;
+}
+
+.guest_1{
+    background-color: beige;
+}
